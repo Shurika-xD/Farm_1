@@ -387,7 +387,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`**7wini**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -401,7 +401,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**qalwa **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -415,7 +415,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**zab**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -429,7 +429,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**?hh**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -443,7 +443,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**wayle**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -471,7 +471,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**wlah**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -485,7 +485,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**aje n7wik**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -499,7 +499,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**la 3afak**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -513,7 +513,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`**gha aje azbi**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -527,7 +527,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`**3afak la**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -541,7 +541,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**wlah mandir lik chi qlwa**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -555,7 +555,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**nn**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -569,7 +569,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**na**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -583,7 +583,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`**zb**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -597,7 +597,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+        message.channel.send(`**?zz? **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -611,7 +611,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**adile zaml**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -625,7 +625,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**qahba**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -639,7 +639,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**tbibin hadak**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -653,7 +653,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**wa l7wa**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -667,7 +667,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**ana 7way**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -681,7 +681,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**?nta 7way ? **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -695,7 +695,7 @@ if (message.content === '$spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 9000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+        message.channel.send(`**mok qhba hh**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
